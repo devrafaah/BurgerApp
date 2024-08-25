@@ -1,2 +1,1 @@
 # BurgersApp
-Lista de hamburgers
