@@ -1,9 +1,14 @@
 <h1>3 - BurgerApp - Android Studio - Kotlin</h1> 
-<p>O BurgerApp é um aplicativo focado em oferecer uma experiência única para os amantes de hambúrgueres. Com uma interface amigável e moderna, o aplicativo permite que os usuários explorem, pesquisem e descubram detalhes sobre uma variedade de hambúrgueres. O projeto utiliza uma arquitetura modularizada, que facilita implementações futuras e manutenção do código, garantindo uma experiência fluida e otimizada.</p> 
+<p>O BurgerApp é um aplicativo focado em oferecer uma experiência única para os amantes de hambúrgueres. Com uma interface amigável e moderna, o aplicativo permite que os usuários explorem, pesquisem e descubram detalhes sobre uma variedade de hambúrgueres. O projeto utiliza uma arquitetura modularizada, que facilita implementações futuras e manutenção do código, garantindo uma experiência fluida e otimizada.</p>
+
+<div class="flex">
+  <img src="https://github.com/user-attachments/assets/1b301af8-347d-40de-af7f-17b5f9fb82fd" width="253px"/>
+  <img src="https://github.com/user-attachments/assets/7c6f1502-4aca-4b13-8732-2a119fa89706" width="260px"/>
+  <img src="https://github.com/user-attachments/assets/086c4e6d-a0dd-469c-811a-faa124464507" width="255px"/>
+</div>
 
 <h2>Funcionalidades Principais</h2> 
 <p>O aplicativo oferece um conjunto de funcionalidades para os usuários encontrarem e explorarem hambúrgueres de maneira simples e eficiente:</p> 
-
 <ul> 
   <li>Busca por Nome: Permite aos usuários pesquisar hambúrgueres específicos pelo nome, retornando resultados precisos e relevantes.</li> 
   <li>Detalhes do Hambúrguer: Exibe informações detalhadas sobre cada hambúrguer, incluindo ingredientes, preços e locais onde podem ser encontrados.</li> 
